@@ -1,5 +1,5 @@
-import React from "react";
-import ReactDOM from "react-dom";
+import React from 'react' //imr + tab
+import ReactDOM from 'react-dom' //imrd + tab
 
 const owl = {
     title: 'Excellent Owl',

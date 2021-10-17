@@ -1,5 +1,5 @@
-import React from "react";
-import reactDom from "react-dom";
+import React from 'react' //imr + tab
+import ReactDOM from 'react-dom' //imrd + tab
 
 class MyComponentClass extends React.Component {
     render() {
